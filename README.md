@@ -16,5 +16,6 @@ When creating the dashboard, I had different lines of thinking which will become
 
 - Standings :
 
-()
+![alt text](https://github.com/JackyKch/FiveDashboard/blob/main/images/standings.png)
+
 
