@@ -34,7 +34,7 @@ In this page, I wanted a simple view on the players who won the most games, the 
 
 - Player Report: 
 
-![alt text](https://github.com/JackyKch/FiveDashboard/blob/main/images/match%20analysis.png)
+![alt text](https://github.com/JackyKch/FiveDashboard/blob/main/images/player%20report.png)
 
 - Field Report: 
 
