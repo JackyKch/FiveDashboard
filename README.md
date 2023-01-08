@@ -12,10 +12,15 @@ To gather all this data, I manually enter information about games (date, field, 
 
 >### Creating the dashboard
 
-When creating the dashboard, I had different lines of thinking which will become the different pages in my dashboard.
+When creating the dashboard, I had different lines of thinking which would become the different pages in my dashboard.
 
 - Standings :
 
 ![alt text](https://github.com/JackyKch/FiveDashboard/blob/main/images/standings.png)
+
+In this page, I wanted a simple view on the players who won the most games, the top scorers and the players with the most given assists. As I started this project in October, I couldn't get the assists for the two games played in September because they deleted the videos.
+
+- Goal Analysis : 
+
 
 
