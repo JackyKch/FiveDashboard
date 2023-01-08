@@ -14,4 +14,7 @@ To gather all this data, I manually enter information about games (date, field, 
 
 When creating the dashboard, I had different lines of thinking which will become the different pages in my dashboard.
 
-- Standings 
+- Standings :
+
+()
+
