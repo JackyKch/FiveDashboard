@@ -8,7 +8,9 @@ As I was discovering Power BI, I quickly realized that, to get familiar with the
 >### Data Gathering
 While thinking about creating this dashboard, my first objective was to record all the number of wins, goals and assists for each player. At the end of each game, we get videos of each goal with the scorer associated as we select on a tablet which player scored so that the scoreboard is updated while we play. We also get the full game's replay which can be useful sometimes when players forget to add their goals on the tablet.
 
-To gather all this data, I manually enter information about games (date, field, location), players (name, footed), teams and events occuring during the game. To do so, I have different tables in a Google Sheets that I supply after every game played. Beforehand, I designed a Power BI model that would be able to transcribe the information I needed.
+Before gathering all the data, I designed a Power BI model that would be able to transcribe the information I needed. I tried different model designs before finding the one that was able to deliver the key indicators that I wanted to analyze.
+
+To gather all this data, I manually enter information about games (date, field, location), players (name, footed), teams and events occuring during the game. To do so, I have different tables in a Google Sheets that I supply after every game played. And thanks to the Google Sheets connector available in Power BI Desktop, I simply refresh my dashboard everytime I add the data from a game to get the updated numbers.
 
 >### Creating the dashboard
 
