@@ -24,19 +24,29 @@ In this page, I wanted a simple view on the players who won the most games, the 
 
 ![alt text](https://github.com/JackyKch/FiveDashboard/blob/main/images/goal%20analysis.png)
 
+In this second page, I wanted a focus on the goals scored during the game, see the best scorers overall and during a single game. I also took a look at the goal distribution by body parts and by quarters of the game as we usually play 1-hour games. The last visual allows me to see how much goals we scored at each game. 
+
 - Assist Analysis: 
 
 ![alt text](https://github.com/JackyKch/FiveDashboard/blob/main/images/assist%20analysis.png)
+
+In this third page, I wanted to see the same thing as the previous page but this time with the assists.
 
 - Match Analysis: 
 
 ![alt text](https://github.com/JackyKch/FiveDashboard/blob/main/images/match%20analysis.png)
 
+This page allows us to have a look at a specific game choosen thanks to the two slicers at the top. It gives the players of the two different teams, the individual stats of each player, the event's timeline and a little visual to see how the game evolved according to the goals scored. 
+
 - Player Report: 
 
 ![alt text](https://github.com/JackyKch/FiveDashboard/blob/main/images/player%20report.png)
 
+The Player Report gives us an insight on how a player performs. We see various statistics on the goals scored and assists given by a player for whom I retrieved the preferred foot. Thanks to this page, we can see if a player is good with both of his feet when shooting or passing but also if this player is stronger at the beginning or the end of a game.
+
 - Field Report: 
 
 ![alt text](https://github.com/JackyKch/FiveDashboard/blob/main/images/field%20report.png)
+
+Finally, the idea for this last page came from a discussion with one the player who said that he never performed well when playing in field number 3. Therefore, I calculated statistics by field in order to see the players with the most wins, goals and assists for each field.
 
