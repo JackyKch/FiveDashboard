@@ -44,7 +44,11 @@ This page allows us to have a look at a specific game choosen thanks to the two 
 
 ![alt text](https://github.com/JackyKch/FiveDashboard/blob/main/images/player%20report.png)
 
-The Player Report gives us an insight on how a player performs. We see various statistics on the goals scored and assists given by a player for whom I retrieved the preferred foot. Thanks to this page, we can see if a player is good with both of his feet when shooting or passing but also if this player is stronger at the beginning or the end of a game.
+The Player Report gives us an insight on how a player performs. We see various statistics on the goals scored and assists given by a player for whom I retrieved the preferred foot. Thanks to this page, we can see if a player is good with both of his feet when shooting or passing but also if this player is stronger at the beginning or the end of a game. In the most recent version, I added a table visual showing the last results for the player chosen. 
+
+Player Report v2            |  Player Report v3
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/JackyKch/FiveDashboard/blob/main/images/player%20report_v1.png)  |  ![alt text](https://github.com/JackyKch/FiveDashboard/blob/main/images/player%20report_v2.png)
 
 - Field Report: 
 
