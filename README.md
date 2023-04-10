@@ -53,5 +53,5 @@ The Player Report gives us an insight on how a player performs. We see various s
 
 ![alt text](https://github.com/JackyKch/FiveDashboard/blob/main/images/field%20report.png)
 
-Finally, the idea for this last page came from a discussion with one the player who said that he never performed well when playing in field number 3. Therefore, I calculated statistics by field in order to see the players with the most wins, goals and assists for each field.
+Finally, the idea for this last page came from a discussion with one of the player who said that he never performed well when playing in field number 3. Therefore, I calculated statistics by field in order to see the players with the most wins, goals and assists for each field.
 
